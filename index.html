@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="img/logo2.png">
+    <link rel="stylesheet" href="css/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <title>Weather App</title>
+</head>
+
+<body>
+
+    <div class="body" id="b">
+
+    <div class="main">
+        <ul>
+            <li><a href="index.html"><img src="img/logo2.png" alt="" class="logo"></a></li>
+            <li><input type="text" class="search" placeholder="Search City" id="src"> 
+                <button class="search_button" onclick="search()"><img src="img/searchLight.png" alt="" class="sr"></button>
+            </li>
+        </ul>
+
+        <h1 class="heading">Weather for <span id="city">New York</span>.</h1>
+
+        <div class="cards">
+            <div class="c1">
+                <h1>Temperatures</h1>
+                <h2><span id="t">00</span>°C</h2>
+                <h3>Temperature is <span id="tm">00</span>°C</h3>
+                <h3>Min Temperature is <span id="minTemp">00</span>°C</h3>
+                <h3>Max Temperature is <span id="maxTemp">00</span>°C</h3>
+            </div>
+            
+            
+            <div class="c1">
+                <h1>Humidity</h1>
+                <h2><span id="humidity">00</span>%</h2>
+                <h3>Humidity is <span id="hum">00</span>%</h3>
+                <h3>Cloude PCT is <span id="cloudePCT">00</span></h3>
+                <h3>Feels like <span id="feelsLike">00</span></h3>
+            </div>
+
+
+            <div class="c1">
+                <h1>Wind</h1>
+                <h2><span id="windSpeed">00</span> km/hr</h2>
+                <h3>Wind Speed is <span id="wSpeed">00</span> km/hr</h3>
+                <h3>Wind Degree is <span id="windDegree">00</span>°</h3>
+            </div>
+        </div>
+
+
+
+
+
+
+
+    </div>
+</div>
+    <script src="javascript/index.js"></script>
+</body>
