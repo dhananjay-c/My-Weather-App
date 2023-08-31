@@ -5,21 +5,21 @@ Welcome to my first-ever web project - the Weather App! This simple web applicat
 
 # Features
 
-**Location Search:** Users can enter a city name or location to get the current weather information.
-**Weather Details:** The app displays essential weather details such as temperature, weather conditions, humidity, wind speed, and more.
-**Responsive Design:** The app is designed to work seamlessly on both desktop and mobile devices.
+**Location Search:** Users can enter a city name or location to get the current weather information.<br>
+**Weather Details:** The app displays essential weather details such as temperature, weather conditions, humidity, wind speed, and more.<br>
+**Responsive Design:** The app is designed to work seamlessly on both desktop and mobile devices.<br>
 
 
 # How to Use
-• Clone the repository to your local machine.
-• Open the index.html file in your web browser.
-• Enter the name of the city or location you want to check the weather for in the search bar.
-• Press the "Search" button to fetch and display the weather information.
+• Clone the repository to your local machine.<br>
+• Open the index.html file in your web browser.<br>
+• Enter the name of the city or location you want to check the weather for in the search bar.<br>
+• Press the "Search" button to fetch and display the weather information.<br>
 
 
 # Technologies Used
-**HTML:** Used for creating the structure of the web page.
-**CSS**:** Used for styling the app and making it visually appealing.
+**HTML:** Used for creating the structure of the web page.<br>
+**CSS:** Used for styling the app and making it visually appealing.<br>
 **JavaScript:** Used to fetch data from the RapidAPI's weather API and dynamically update the content on the page.
 
 
