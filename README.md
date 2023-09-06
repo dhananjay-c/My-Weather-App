@@ -29,4 +29,4 @@ I used the RapidAPI's weather API to retrieve weather data for different locatio
 
 # Acknowledgments
 I want to express my gratitude to the RapidAPI platform for providing the weather API used in this project. This project has been a great learning experience for me as my first web development project, and I'm excited to continue improving my skills.
-Feel free to provide any feedback or suggestions! You can reach me at dhananjaychavan0907@example.com.
+Feel free to provide any feedback or suggestions! You can reach me at dhananjaychavan0907@gmail.com.
